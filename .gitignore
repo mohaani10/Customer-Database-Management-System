@@ -1,0 +1,6 @@
+# Keep credentials, backups, and local exports out of GitHub
+*.bak
+*.trn
+*.mdf
+*.ldf
+.env
